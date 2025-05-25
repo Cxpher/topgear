@@ -1,7 +1,7 @@
 # <p align=center> Assignment 5.1: Will the Customer Accept the Coupon?
 
 ## Quick links
-* Link to the dataset used in this analysis can be found <a href="https://github.com/Cxpher/nutcracker/blob/main/data/coupons.csv">here</a>.
+* Link to the dataset used in this analysis can be found <a href="https://github.com/Cxpher/topgear/blob/main/data/vehicles.csv">here</a>.
 * Link to Jupiter Notebook containing code and visualization for the performed analysis can be found <a href="https://github.com/Cxpher/nutcracker/blob/main/prompt.ipynb">here</a>.
 * Link to folder containing all saved visualized plots depicted in the Jupiter Notebook can be found <a href="https://github.com/Cxpher/nutcracker/tree/main/plotted_images">here</a>.
 
