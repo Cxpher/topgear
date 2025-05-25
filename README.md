@@ -26,8 +26,8 @@ What are the factors that determine whether a driver accepts the coupon once it 
 |7.  | Only cars with clean title status have reasonable value. |      |
 |8.  | White color cars seems to be the most popular. |      |
 
-## Recommendations to establishment partners
-1. Ensure coupons are sent to drivers during seasons of warmer weather (approx. 80 degrees fahrenheit).
-2. Check to ensure that a driver has not been to an establishment (accepted and used vouchers could be one way) more than 3 times within the month before sending him or her a coupon.
-3. Target specific age group of between 25 to 30 years old for bar coupons. Additionally, it'll be good to ensure that these drivers are not married, which will reduce the likelihood of them being with kids as passengers.
-4. It will be good to target drivers during weekends instead of weekdays as this would mean that they will likely not be on the way to home or work and may not have any urgent place to go, thus increasing the likelihood of them accepting coupons.
+## Recommendations to client
+1. Stock up on diesel SUV & sedans from Ford, Chevy & Toyota respectively.
+2. Ensure they are in 'like new', 'excellent' or 'good condition' in that order of preference.
+3. Ensure that they are dated within the last 5 years.
+4, Where possible, try to pick up cars that are white or black. Avoid cars with odd colors such as purple.
